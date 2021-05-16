@@ -1,3 +1,3 @@
 # Weather-App
 
-This application lets you check current weather in a city you want. Just type in name, postcode, etc. and press button. The description will be shown below.
+This application lets you check current weather in a city of your choice. To use it just type in name, postcode, etc. and press the button. The description will be shown below with all the details.
